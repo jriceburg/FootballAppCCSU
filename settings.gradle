@@ -1,0 +1,2 @@
+rootProject.name='FootballAppCCSU'
+include ':app'
