@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FootballAppCCSU</string>
+    <string name="text_body">weets are the basic atomic building block of all things Twitter. Tweets are also known as “status updates.” The Tweet object has a long list of ‘root-level’ attributes, including fundamental attributes such as</string>
+    <string name="created_at">created at</string>
+    <string name="twitter_icon">Twitter Icon</string>
+    <string name="twitter_api">Twitter API</string>
+    <string name="twitterapi">TwitterAPI</string>
+    <string name="profile_imagw">profile imagw</string>
+    <string name="likes">Likes</string>
+    <string name="reply_icon">reply_icon</string>
+    <string name="_45">45</string>
+    <string name="retweets">Retweets</string>
+    <string name="upload_icon">upload_icon</string>
+    <string name="_203">203</string>
+</resources>
